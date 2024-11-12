@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48114143392",
+    "project_id": "fir-with-crud-operations-fcb80",
+    "storage_bucket": "fir-with-crud-operations-fcb80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48114143392:android:83070b687e4222564bf9c5",
+        "android_client_info": {
+          "package_name": "com.example.firebase_with_crud_operations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5PxnIpR9LLjZzQ-EpJ63rx_9RkFhXrZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
